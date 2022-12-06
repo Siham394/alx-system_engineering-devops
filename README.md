@@ -1,1 +1,1 @@
-my first scripy
+ variables
